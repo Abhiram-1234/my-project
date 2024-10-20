@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.9a32ab2f.css",
+    "main.js": "/my-project/static/js/main.0073fc76.js",
+    "static/media/marriage.jpg": "/my-project/static/media/marriage.db4f4242a499650f3d2c.jpg",
+    "static/media/Annapurna.jpg": "/my-project/static/media/Annapurna.9075185fd960a4bcb80a.jpg",
+    "index.html": "/my-project/index.html",
+    "main.9a32ab2f.css.map": "/my-project/static/css/main.9a32ab2f.css.map",
+    "main.0073fc76.js.map": "/my-project/static/js/main.0073fc76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a32ab2f.css",
+    "static/js/main.0073fc76.js"
+  ]
+}
